@@ -28,7 +28,7 @@
 ## Let’s Connect
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> [shmuellevy16@gmail.com](mailto:shmuellevy16@gmail.com)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/shmuellevy)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/shmuel-levy-760171295/)
 
 ---
 
