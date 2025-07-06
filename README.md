@@ -10,10 +10,10 @@
 
 ## About Me
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/marker/marker-original.svg" width="20"/> Based in Tel Aviv, where the code never sleeps.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> Polyglot in the world of web: Vue, Angular, React, Node.js, TypeScript, and more.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffee/coffee-original.svg" width="20"/> I turn coffee into scalable, beautiful web apps.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tools/tools-original.svg" width="20"/> I craft with:
+-  Based in Tel Aviv, where the code never sleeps.
+-  Polyglot in the world of web: Vue, Angular, React, Node.js, TypeScript, and more.
+-  I turn coffee into scalable, beautiful web apps.
+-  I craft with:
   <img src="https://skillicons.dev/icons?i=react,vue,angular,js,ts,html,css,scss,nodejs,mongodb,redux,vite,postman" height="30" />
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocket/rocket-original.svg" width="20"/> Always learning, always building, always curious.
 
