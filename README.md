@@ -1,4 +1,10 @@
-    ## Hi there 👋
+# Hi, I'm Shmuel 👋
+  - 💻 Full Stack Developer | React Enthusiast
+  - 🚀 Building Minday: a modern work management platform
+  - 🌱 Always learning new tech
+  - 📫 [LinkedIn](www.linkedin.com/in/shmuel-levy-760171295
+
+) 
 
 <!--
 **shmuel-levy/Shmuel-Levy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
