@@ -1,9 +1,9 @@
 <!-- Profile README for Shmuel Levy -->
 
-<h1 align="center">Hey there, I'm Shmuel Levy</h1>
 <p align="center">
-  <b>Full Stack Developer | MERN Magician | UI/UX Enthusiast</b><br>
-  <i>Building the future, one pixel and API at a time.</i>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24BE23&background=FF000000&center=true&vCenter=true&multiline=true&width=600&lines=Hey+there%2C+I'm+Shmuel+Levy+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Magician+%F0%9F%9A%80;UI%2FUX+Enthusiast+with+Pixel+Precision;Based+in+Tel+Aviv+where+the+code+never+sleeps;Turning+coffee+into+scalable+products+%E2%98%95;Let%E2%80%99s+build+cool+stuff+together!" alt="Typing SVG" />
+  </a>
 </p>
 
 <hr/>
