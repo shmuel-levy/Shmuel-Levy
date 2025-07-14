@@ -10,7 +10,6 @@
 
 ## About Me
 
--  Based in Tel Aviv, where the code never sleeps.
 -  Polyglot in the world of web: Vue, Angular, React, Node.js, TypeScript, and more.
 -  I turn coffee into scalable, beautiful web apps.
 -  I craft with:
