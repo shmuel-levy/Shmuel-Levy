@@ -35,6 +35,10 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/></td>
     <td><a href="https://www.linkedin.com/in/shmuel-levy-760171295/">LinkedIn</a></td>
   </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="24"/></td>
+    <td><a href="https://shmuel-levy-portfolio.vercel.app/" target="_blank">Portfolio</a></td>
+  </tr>
 </table>
 
 ## Featured Project
