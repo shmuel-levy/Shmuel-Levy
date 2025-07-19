@@ -58,6 +58,14 @@
   <img src="https://skillicons.dev/icons?i=react,vue,angular,js,ts,html,css,scss,nodejs,mongodb,redux,vite,postman,git,github" height="40" />
 </details>
 
+### 📊 GitHub Stats  
+[![Shmuel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=shmuel-levy&show_icons=true&theme=radical)](https://github.com/shmuel-levy)
+
+### 🛠️ Top Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shmuel-levy&layout=compact&theme=radical)](https://github.com/shmuel-levy)
+
+### 📈 Contribution Streak  
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shmuel-levy&theme=dark&hide_border=true)](https://github.com/shmuel-levy)
 ---
 
 <p align="center">
