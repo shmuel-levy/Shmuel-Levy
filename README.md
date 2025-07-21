@@ -58,17 +58,34 @@
   <img src="https://skillicons.dev/icons?i=react,vue,angular,js,ts,html,css,scss,nodejs,mongodb,redux,vite,postman,git,github" height="40" />
 </details>
 
-### 📊 GitHub Stats
-![Shmuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmuel-levy&show_icons=true&theme=radical)
+<h2 align="center">📊 Shmuel Levy's GitHub Overview</h2>
 
-### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shmuel-levy&layout=compact&theme=radical)
+---
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shmuel-levy&theme=radical)
+### 🧠 GitHub Stats
 
-### 📈 Contribution Streak  
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shmuel-levy&theme=dark&hide_border=true)](https://github.com/shmuel-levy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shmuel-levy&show_icons=true&theme=radical&border_radius=10" alt="Shmuel's GitHub Stats" />
+</p>
+
+---
+
+### 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmuel-levy&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shmuel-levy&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
 ---
 
 <p align="center">
