@@ -62,10 +62,32 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shmuel-levy&show_icons=true&theme=radical&hide_rank=true&border_radius=10" height="180" />
-<img src="https://streak-stats.demolab.com/?user=shmuel-levy&theme=radical&border_radius=10" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmuel-levy&layout=compact&theme=radical&border_radius=10" height="180" />
 </p>
 
+---
+
+### 🏆 GitHub Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shmuel-levy&theme=radical&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+
+### 🔥 Contribution Graph (Streak Replacement)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shmuel-levy&theme=radical&area=true&hide_border=true" />
+</p>
+
+---
+
+### 📍 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shmuel-levy&label=Visitors&color=ff69b4&style=flat" />
+</p>
 ---
 
 <p align="center">
