@@ -58,11 +58,11 @@
   <img src="https://skillicons.dev/icons?i=react,vue,angular,js,ts,html,css,scss,nodejs,mongodb,redux,vite,postman,git,github" height="40" />
 </details>
 
-<h2 align="center">📊 Shmuel Levy's GitHub Overview</h2>
+<h2 align="center"> Shmuel Levy's GitHub Overview</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shmuel-levy&show_icons=true&theme=radical&hide_rank=true&border_radius=10" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shmuel-levy&theme=radical&border_radius=10" height="180" />
+<img src="https://streak-stats.demolab.com/?user=shmuel-levy&theme=radical&border_radius=10" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmuel-levy&layout=compact&theme=radical&border_radius=10" height="180" />
 </p>
 
