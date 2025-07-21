@@ -60,31 +60,11 @@
 
 <h2 align="center">📊 Shmuel Levy's GitHub Overview</h2>
 
----
-
-### 🧠 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shmuel-levy&show_icons=true&theme=radical&border_radius=10" alt="Shmuel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shmuel-levy&show_icons=true&theme=radical&hide_rank=true&border_radius=10" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shmuel-levy&theme=radical&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmuel-levy&layout=compact&theme=radical&border_radius=10" height="180" />
 </p>
-
----
-
-### 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmuel-levy&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shmuel-levy&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
-
----
 
 ---
 
